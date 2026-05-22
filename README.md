@@ -1,7 +1,7 @@
 # techdom-links
 
 * [Halloween App](https://anuta.carrd.co/)
-[Test](https://anuta.carrd.co/)
+* [Test](https://anuta.carrd.co/)
 [AnutAI Beta](https://anuta.carrd.co/)
 [RLT](https://anuta.carrd.co/)
 [Hey](https://anuta.carrd.co/)
